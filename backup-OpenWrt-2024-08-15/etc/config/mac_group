@@ -1,0 +1,6 @@
+
+config macgroup
+	option name '技术部'
+	option id '714313202'
+	list mac '5a:ca:00:e3:7f:31'
+

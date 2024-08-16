@@ -1,0 +1,20 @@
+config global global
+	option version '0'
+    
+config wifi_2g 'wifi_2g'
+	option htmode 'HT20'
+	option encry_type 'TKIPAES'
+	option hide '0'
+	option channel '0'
+	option key ''
+	option auth_mode 'WPAPSKWPA2PSK'
+	option ssid 'fros-2g'
+
+config wifi_5g 'wifi_5g'
+	option htmode 'HT80'
+	option hide '0'
+	option channel '0'
+	option auth_mode 'WPA2PSK'
+	option key ''
+	option encry_type 'TKIPAES'
+	option ssid 'fros-5g'

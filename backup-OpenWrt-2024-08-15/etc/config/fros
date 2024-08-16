@@ -1,0 +1,21 @@
+
+config system 'system'
+	option version '2.0.1'
+	option username 'admin'
+	option password 'admin'
+	option cloud_en '1'
+
+config license 'register'
+	option mac '40:62:31:2a:9e:af'
+	option deviceid 'd47d72af6525194561d95bd5dc33e579'
+	option status '0'
+	option license 'U2FsdGVkX18qNNl36XZVOtV+iqBKfKvEmJNjONeuuUbrWXPEQSVbk2SH1yvRZQZwI3kdBW4q1Ycd1CquHJoN8sGQsBK6GWFAiJQXhu45HvW1uCRFjNyjZ1Lyu+lcUtL2'
+
+config device 'status'
+	option wifi_init '0'
+
+config reboot 'reboot'
+	option enable '0'
+	option day '-1'
+	option time '03:00'
+

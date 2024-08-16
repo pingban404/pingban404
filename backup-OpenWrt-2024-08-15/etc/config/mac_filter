@@ -1,0 +1,10 @@
+
+config global 'global'
+	option enable '0'
+
+config rule
+	option id '714392762'
+	option mac_group '714313202'
+	option time_group '1000002'
+	option enable '1'
+
