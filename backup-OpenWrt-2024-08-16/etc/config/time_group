@@ -1,0 +1,29 @@
+config timegroup
+	option id '1000000'
+	option name '所有时间'
+	list time '00:00-24:00'
+	list weekday '0'
+	list weekday '1'
+	list weekday '2'
+	list weekday '3'
+	list weekday '4'
+	list weekday '5'
+	list weekday '6'
+
+config timegroup
+	option name '周末'
+	option id '1000001'
+	list time '00:00-24:00'
+	list weekday '0'
+	list weekday '6'
+
+config timegroup
+	option name '工作日'
+	option id '1000002'
+	list time '00:00-24:00'
+	list weekday '1'
+	list weekday '2'
+	list weekday '3'
+	list weekday '4'
+	list weekday '5'
+

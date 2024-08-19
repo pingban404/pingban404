@@ -1,0 +1,29 @@
+config wifi-device
+	option band '2g'
+	option htmode 'HT20'
+	option country 'US'
+	option name '2.4G'
+	option channel '6'
+
+config wifi-device
+	option band '5g'
+	option htmode 'VHT80'
+	option country 'US'
+	option name '5G'
+	option channel '36'
+
+config wifi-iface
+	option radio '0'
+	option encry_type 'AES'
+	option ssid 'fros_wifi'
+	option auth_mode 'WPAPSKWPA2PSK'
+	option key '66668888'
+	option hide '0'
+
+config wifi-iface
+	option radio '1'
+	option encry_type 'AES'
+	option ssid 'fros_wifi'
+	option auth_mode 'WPAPSKWPA2PSK'
+	option key '66668888'
+	option hide '0'

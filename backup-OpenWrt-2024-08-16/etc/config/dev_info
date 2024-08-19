@@ -1,0 +1,5 @@
+
+config devinfo
+	option mac '2c:db:07:16:1b:f1'
+	option nickname '特别重点人'
+

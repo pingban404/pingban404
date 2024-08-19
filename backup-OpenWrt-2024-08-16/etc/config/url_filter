@@ -1,0 +1,22 @@
+config global 'global'
+	option enable '0'
+
+config rule
+	option id '1000001'
+	option mac_group '0'
+	option time_group '1000000'
+	option name '常用网站'
+	option enable '0'
+	list url 'baidu.com'
+	list url 'sina.com.cn'
+	list url '2345.com'
+	list url 'hao123.com'
+
+config rule
+	option name '视频网站'
+	option id '1000002'
+	option mac_group '0'
+	option time_group '1000000'
+	option enable '0'
+	list url 'v.qq.com'
+	list url 'iqiyi.com'

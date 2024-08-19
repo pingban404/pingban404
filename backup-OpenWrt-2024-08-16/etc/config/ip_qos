@@ -1,0 +1,34 @@
+
+config global 'global'
+	option enable '1'
+
+config rule
+	option id '10001'
+	option name 'test'
+	option up_rate '256'
+	option down_rate '256'
+	option ip_range '192.168.66.100-192.168.66.200,192.168.66.10'
+	option enable '0'
+
+config rule
+	option id '1723714625'
+	option enable '0'
+	option up_rate '10'
+	option down_rate '10'
+	option ip_range '192.168.49.120'
+
+config rule
+	option id '1723714752'
+	option enable '1'
+	option name '测试手机'
+	option up_rate '102'
+	option down_rate '10'
+	option ip_range '192.168.49.206'
+
+config rule
+	option id '1723796193'
+	option enable '1'
+	option up_rate '1024'
+	option down_rate '1024'
+	option ip_range '192.168.49.157'
+

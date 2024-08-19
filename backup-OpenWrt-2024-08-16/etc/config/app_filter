@@ -1,0 +1,52 @@
+
+config global 'global'
+	option enable '1'
+	option audit_enable '1'
+	option agree '1'
+	option max_record_time '7'
+	option min_online_time '10'
+	option url_data_size '50'
+	option url_data_days '15'
+	option url_audit_enable '1'
+	option max_record_num '-318330656'
+
+config auto_upgrade 'auto_upgrade'
+	option enable '1'
+	option weekday '0'
+	option update_time '3'
+
+config rule
+	option id '1'
+	option mac_group '0'
+	option time_group '1000000'
+	option name '常用视频'
+	option enable '0'
+	list appid '3006'
+	list appid '3003'
+	list appid '3002'
+	list appid '3004'
+
+config rule
+	option id '2'
+	option mac_group '0'
+	option time_group '1000000'
+	option name '常用游戏'
+	option enable '0'
+	list appid '2028'
+	list appid '2005'
+	list appid '2007'
+	list appid '2068'
+
+config rule
+	option id '3'
+	option mac_group '0'
+	option time_group '1000000'
+	option name '常用购物'
+	option enable '0'
+	list appid '4001'
+	list appid '4003'
+	list appid '4004'
+	list appid '4011'
+	list appid '4012'
+	list appid '4006'
+

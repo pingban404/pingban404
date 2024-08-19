@@ -1,0 +1,13 @@
+
+config global 'global'
+	option enable '0'
+	option live_video '2'
+	option short_video '2'
+
+config rule
+	option id '1'
+	option mac_group '0'
+	option time_group '1000000'
+	option name '抖音'
+	option enable '0'
+	list appid '3001'
