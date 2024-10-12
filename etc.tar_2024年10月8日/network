@@ -1,0 +1,43 @@
+
+config interface 'loopback'
+	option proto 'static'
+	option ipaddr '127.0.0.1'
+	option netmask '255.0.0.0'
+	option device 'lo'
+
+config device
+	option name 'br-lan'
+	option type 'bridge'
+	list ports 'eth0'
+	list ports 'eth1'
+	list ports 'eth2'
+	list ports 'eth7'
+
+config device
+	option name 'br-lan2'
+	option type 'bridge'
+	list ports 'eth3'
+	list ports 'eth4'
+
+config interface 'lan'
+	option device 'br-lan'
+	option proto 'static'
+	option ipaddr '192.168.49.1'
+	option netmask '255.255.255.0'
+	option ip6assign '60'
+
+config interface 'wan'
+	option proto 'static'
+	option ipaddr '192.168.8.89'
+	option netmask '255.255.255.0'
+	option gateway '192.168.8.1'
+	option dns '192.168.8.115 '
+	option device 'eth5'
+	option mode '0'
+
+config interface 'lan2'
+	option device 'br-lan2'
+	option proto 'static'
+	option ipaddr '192.168.50.1'
+	option netmask '255.255.255.0'
+
