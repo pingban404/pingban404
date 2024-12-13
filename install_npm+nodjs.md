@@ -1,7 +1,9 @@
 ### 1
+```bash
 docker compose -f /home/janus/greenbone-community-container/docker-compose.yml exec -it gsa bash
-### 2
 ```
+### 2
+```bash
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
     ca-certificates \
@@ -11,7 +13,7 @@ RUN apt-get update && \
 ```
 
 ### 3
-```
+```bash
 apt-get update && apt-get install -y curl gnupg
 
 NODE_KEYRING=/usr/share/keyrings/nodesource.gpg
