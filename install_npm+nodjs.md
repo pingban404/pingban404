@@ -1,4 +1,6 @@
 ### 1
+docker compose -f /home/janus/greenbone-community-container/docker-compose.yml exec -it gsa bash
+### 2
 ```
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
@@ -8,7 +10,7 @@ RUN apt-get update && \
     bash
 ```
 
-### 2
+### 3
 ```
 apt-get update && apt-get install -y curl gnupg
 
@@ -22,4 +24,3 @@ echo "deb [signed-by=$NODE_KEYRING] https://deb.nodesource.com/$NODE_VERSION $DI
 apt-get update && apt-get install -y nodejs
 ```
 
-### 
