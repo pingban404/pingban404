@@ -1,7 +1,10 @@
 # DEEPSEEK-R1-7B 自用1手5年前老笔记本即可畅玩
 ### 联系
+
 1242105494@qq.com
+
 B站 [点我🌲](https://space.bilibili.com/22708035?spm_id_from=333.1007.0.0)
+
 GITHUB [点我🐈‍⬛](https://github.com/pingban404)
 ### 环境
 window
