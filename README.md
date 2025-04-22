@@ -20,25 +20,13 @@
 
 ## 🛠️ 技术栈
 
-### 系统运维
 <div align="center">
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-</div>
-
-### 网络技术
-<div align="center">
-  <img src="https://img.shields.io/badge/-Network-1A73E8?logo=cisco&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Firewall-FF6B6B?logo=firewall&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Router-00A86B?logo=router&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
-</div>
-
-### 开发技能
-<div align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
 </div>
 
 ---
@@ -89,6 +77,9 @@
 <div align="center">
   <a href="https://github.com/pingban404">
     <img src="https://img.shields.io/github/followers/pingban404?label=Follow&style=social" alt="GitHub" />
+  </a>
+  <a href="mailto:1242105494@qq.com">
+    <img src="https://img.shields.io/badge/Email-1242105494@qq.com-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </div>
 
