@@ -31,15 +31,7 @@
 
 ---
 
-## 📈 项目展示
 
-<div align="center">
-  <a href="https://github.com/pingban404/YuqueExportToMarkdown">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pingban404&repo=YuqueExportToMarkdown&theme=default" />
-  </a>
-</div>
-
----
 
 ## 🌟 当前关注
 
