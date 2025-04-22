@@ -1,3 +1,1 @@
-### 简介
-这个项目用于个人存储写配置文件，这些文件中没有敏感信息
-
+![奖杯](https://github-profile-trophy.vercel.app/?username=pingban404&theme=onedark)
