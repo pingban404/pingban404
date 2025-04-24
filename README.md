@@ -10,10 +10,6 @@
 
 ## 🚀 关于我
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pingban404&show_icons=true&theme=default&hide=stars,issues" alt="Stats" />
-</div>
-
 我是一名专注于Linux系统运维的工程师，同时也热爱网络技术和AI开发。我喜欢探索新技术，搭建自己的软路由系统，研究网络安全，以及开发AI知识库应用。
 
 ---
