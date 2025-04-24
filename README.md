@@ -71,7 +71,7 @@
     <img src="https://img.shields.io/github/followers/pingban404?label=Follow&style=social" alt="GitHub" />
   </a>
   <a href="mailto:1242105494@qq.com">
-    <img src="https://img.shields.io/badge/Email-1242105494@qq.com-blue?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-pingban404@qq.com-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
 </div>
 
