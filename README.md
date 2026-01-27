@@ -1,13 +1,3 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=Linux+System+Engineer;Network+Security+Enthusiast;AI+RAG+Developer" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pingban404&theme=flat&no-frame=true&margin-w=15" alt="Trophies" />
-</div>
-
----
-
 ## 🚀 关于我
 
 我是一名专注于Linux系统运维的工程师，同时也热爱网络技术和AI开发。我喜欢探索新技术，搭建自己的软路由系统，研究网络安全，以及开发AI知识库应用。
