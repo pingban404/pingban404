@@ -19,28 +19,7 @@
 
 
 
-## 🌟 当前关注
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-AI%20RAG-FF6B6B?style=flat-square" />
-        <br>知识库开发
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Network-1A73E8?style=flat-square" />
-        <br>网络设备配置
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/-Security-00A86B?style=flat-square" />
-        <br>安全渗透测试
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📊 编程语言使用情况
 
