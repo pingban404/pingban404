@@ -1,42 +1,59 @@
-## 🚀 关于我
-
-我是一名专注于Linux系统运维的工程师，同时也热爱网络技术和AI开发。我喜欢探索新技术，搭建自己的软路由系统，研究网络安全，以及开发AI知识库应用。
-
----
-
-## 🛠️ 技术栈
-
 <div align="center">
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Shell-4EAA25?logo=gnu-bash&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?logo=kali-linux&logoColor=white&style=for-the-badge" />
+
+# 👋 Hi, I'm pingban404
+
+> **Python Developer | Automation Engineer | AI Enthusiast**
+
+致力于构建高效的自动化流程、稳健的后端服务以及智能的 AI 应用集成。
+
+[📧 Email](mailto:pingban404@qq.com) &nbsp
+
 </div>
 
 ---
 
+### 🚀 关于我
 
-
-
-
-## 📊 编程语言使用情况
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pingban404&layout=compact&theme=default&langs_count=8" alt="Languages" />
-</div>
+我是一名专注于 **Python 应用开发** 与 **跨平台自动化运维** 的开发者。
 
 ---
 
-## 🤝 联系我
+### 🛠️ 技术栈
+
+#### 💻 核心开发与自动化
+*   **Languages:** Python (精通), Shell (Linux), PowerShell (Windows)
+*   **Data & Scripting:** Pandas, Numpy, OpenCV, Openpyxl, Requests
+*   **Focus:** 跨平台自动化部署、批量任务管理、系统监控、数据清洗与分析
+
+#### 🐳 容器与运维
+*   **Containerization:** Docker (精通), Kubernetes (基础架构与编排)
+*   **Network:** HTTP/HTTPS, DNS, Wireshark, curl, Browser DevTools
+*   **Ops:** 多环境应用部署、网络协议分析与调试
+
+#### 🗄️ 数据存储
+*   **Relational:** PostgreSQL (复杂 SQL 查询)
+*   **Search Engine:** Elasticsearch (DSL 语句编写与优化)
+
+#### 🤖 AI 与大模型
+*   **Tech Stack:** LLM Integration, AI-Agent, RAG (检索增强生成), Prompt Engineering
+*   **Application:** 大模型 API 集成、智能工作流构建
+
+#### 🤝 协作与工具
+*   **Version Control:** Git, SVN
+*   **Documentation:** Markdown, Office Suite (Word, Excel, Outlook)
+
+---
+
+
+### 💡 近期关注
+
+- ⚡ 优化基于 **Python** 工具开发。
+
+---
 
 <div align="center">
-  <a href="https://github.com/pingban404">
-    <img src="https://img.shields.io/github/followers/pingban404?label=Follow&style=social" alt="GitHub" />
-  </a>
-  <a href="mailto:1242105494@qq.com">
-    <img src="https://img.shields.io/badge/Email-pingban404@qq.com-blue?style=flat-square&logo=gmail" alt="Email" />
-  </a>
-</div>
 
+
+📫 欢迎与我交流技术合作或探讨 AI 应用场景！
+
+</div>
